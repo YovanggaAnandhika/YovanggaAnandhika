@@ -5,9 +5,7 @@
     <td><img width="800" src="https://i1.sndcdn.com/avatars-000491055558-wriqir-t500x500.jpg" alt="Yovangga Anandhika"> </td>
     <td>
         <h3>Yovangga Anandhika</h3>
-        <b>A Full Stack Developer Software Engginering</b> From Indonesia.
-        Mendalami Bidang Pemegraman Komputer, Seorang Pendiri Komunitas Startup <b>DKA Research Center</b>
-        dan Aktif Mengerjakan Penelitian dan Pekerjaan Berbasis Inovasi Digital. Menguasai Lebih Dari 18 Bahasa Program Komputer.
+        <b>A Full Stack Developer Software Engineering From Indonesia. Studying Computer Programming, Founder of DKA Research Center Startup Community and Actively Working on Digital Innovation-Based Research and Work. Mastering More Than 18 Computer Program Languages.
         <br/><br/>
     </td>
  </tr>
