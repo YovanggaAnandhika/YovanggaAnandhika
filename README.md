@@ -1,16 +1,16 @@
-## Halo, Saya Adalah Yovangga Anandhika
+##
+![avatar](https://images.weserv.nl/?url=https://i1.sndcdn.com/avatars-000491055558-wriqir-t500x500.jpg?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d)
+##Halo, Saya Adalah Yovangga Anandhika
 ### Hi there. I am' Yovangga Anandhika a Full Stack Developer. 👋
-
-
-| <img width="200" height="200" src="https://i1.sndcdn.com/avatars-000491055558-wriqir-t500x500.jpg" alt="Yovangga Anandhika">                                                                                                                                 | |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pengembang Rekayasa Perangkat Lunak Full Stack Dari Indonesia. Mempelajari Pemrograman Komputer, Founder Komunitas Startup DKA Research Center dan Aktif Berkarya Riset dan Karya Berbasis Inovasi Digital. Menguasai Lebih Dari 10 Bahasa Program Komputer  |  A Full Stack Developer Software Engineering From Indonesia. Studying Computer Programming, Founder of DKA Research Center Startup Community and Actively Working on Digital Innovation-Based Research and Work. Mastering More Than 10 Computer Program Languages. |
-
-
-
-
+<br/>
 <details>
-
+<summary>
+Pengembang Rekayasa Perangkat Lunak Full Stack Dari Indonesia. Mempelajari Pemrograman Komputer, Founder Komunitas Startup DKA Research Center dan Aktif Berkarya Riset dan Karya Berbasis Inovasi Digital. Menguasai Lebih Dari 10 Bahasa Program Komputer
+</summary>
+A Full Stack Developer Software Engineering From Indonesia. Studying Computer Programming, Founder of DKA Research Center Startup Community and Actively Working on Digital Innovation-Based Research and Work. Mastering More Than 10 Computer Program Languages.
+</details>
+<br/>
+<details>
 <summary>
 Saya gemar dalam melakukan inovasi terutama di <b>bidang teknologi</b> 
 dan pengembangan perangkat lunak dapat bekerja single programmer / tim yang 
